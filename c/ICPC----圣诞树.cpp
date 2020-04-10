@@ -2,7 +2,7 @@
 void sz(int n,int k);
 int main()
 {
-	int n,i,j,k;
+	int n,i,j;
 	scanf("%d", &n);
 	for (i = 2; i <= n + 1; i++)
 	{
